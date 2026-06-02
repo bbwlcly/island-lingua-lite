@@ -28,8 +28,11 @@ jobs:
           node-version: 22
           cache: npm
 
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
       - name: Install
-        run: npm ci
+        run: npm ci --registry=https://registry.npmjs.org
 
       - name: Build
         run: npm run build
