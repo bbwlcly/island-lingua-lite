@@ -1,0 +1,19 @@
+{
+  "name": "Island Lingua Lite",
+  "short_name": "Island Lingua",
+  "description": "A quiet English shadowing podcast practice tool.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f8f8f7",
+  "theme_color": "#f8f8f7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

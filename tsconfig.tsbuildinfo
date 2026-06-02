@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/react-shim.d.ts","./src/registerserviceworker.ts","./src/types.ts","./src/vite-env.d.ts","./src/pages/home.tsx","./src/pages/library.tsx","./src/pages/podcastplayer.tsx","./src/services/aiservice.ts","./src/services/storageservice.ts","./src/services/ttsservice.ts"],"version":"5.9.3"}
